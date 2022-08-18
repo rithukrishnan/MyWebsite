@@ -1,6 +1,6 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
-import {skills} from '../data'
+import {skills} from './data'
 const Skills = () => {
   return (
     <section id="skills">
@@ -11,8 +11,7 @@ const Skills = () => {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                My aim is to be a Dev Ops Engineer. My skill revolves around Network Programming and Python. I also know my way around Databases using SQL
-
+                My aim is to be a Product Manager. My skills revolves around Network Programming and Python. I have picked up a few new skills as part of my masters program.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

@@ -46,7 +46,8 @@ const Contact = () => {
                 Address
               </h2>
               <p className="mt-1">
-                University of Texax, <br />
+                McCombs School of Business, <br />
+                University of Texas, <br />
                 Austin, TX 78712, <br /> United States
               </p>
             </div>
@@ -62,12 +63,11 @@ const Contact = () => {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 Phone
               </h2>
-              <p className="leading-relaxed">123-456-8791</p>
+              <p className="leading-relaxed">737-420-5116</p>
             </div>
           </div>
         </div>
         <form
-          netlify
           name="contact"
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
           onSubmit={handleSubmit}
@@ -76,7 +76,7 @@ const Contact = () => {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            If you have a great internship/full time opportunity and I suit the
+            If you have a great full time opportunity and I suit the
             profile, kindly contact me using the below form!
           </p>
           <div className="relative mb-4">
